@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@dicebear/adventurer-neutral": "^4.10.5",
+    "@dicebear/avatars": "^4.10.5"
+  }
+}
